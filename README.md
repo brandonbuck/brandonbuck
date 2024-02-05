@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brandonbuck
-- 👀 I’m interested in playing the drums, listening to the sound of leaves rustling in the breeze, watching Arsenal win matches...
+- 👀 I’m interested in turntablism. 
 - 🌱 I’m currently working in aws, k8s, go, IaC (terraform/pulumi)...
 
 
