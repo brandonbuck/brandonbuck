@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @brandonbuck
-- 👀 I’m interested in turntablism. 
 - 🌱 I’m currently working in aws, k8s, go, IaC (terraform/pulumi)...
 
 
